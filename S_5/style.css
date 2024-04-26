@@ -1,0 +1,35 @@
+/** {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}*/
+
+header {
+    background-color: rgb(37, 116, 169);
+}
+
+main {
+    background-color: rgb(146, 151, 155);
+}
+
+footer {
+    background-color: rgb(77, 202, 77);
+    border: 2px solid black ;
+    color: rgb(78, 82, 78);
+}
+.card {
+    background-color: white;
+}
+
+.container {
+    background-color: pink;
+    color: brown;
+}
+
+#card1 {
+    border: 2px solid black;
+}
+
+#card2 {
+    border: 2px dotted black;
+}
